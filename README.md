@@ -1,6 +1,6 @@
-📉 Customer Churn Prediction Project
+**📉 Customer Churn Prediction Project**
 
-🎯 Problem Statement
+**🎯 Problem Statement**
 
 The telecommunications industry faces a major challenge in retaining its customer base. Customer churn — when existing customers stop using a company's services — directly impacts revenue and growth.
 
@@ -11,14 +11,14 @@ Predict whether a customer will churn based on their demographic, service usage,
 Identify key factors contributing to customer churn, so the business can take proactive steps for customer retention.
 
 
-Business Need:
+**Business Need:**
 By accurately predicting churn, the company can:
 
 Target high-risk customers with retention strategies.
 
 Reduce customer loss and improve profitability.
 
-
+**Customer Churn Prediction**
 A complete machine learning project to predict customer churn using Python, scikit-learn, and Streamlit. This project includes:
 
 Data Cleaning & Preprocessing
@@ -34,7 +34,7 @@ Best Model Selection & Feature Importance Visualization
 Interactive Streamlit Web Application
 
 
-✅ Tools & Libraries
+**✅ Tools & Libraries**
 
 Python (pandas, numpy, matplotlib, seaborn, scikit-learn, joblib, streamlit)
 
@@ -55,7 +55,7 @@ Random Forest Classifier (Best Performing Model)
 
 
 
-⚙ Steps to Reproduce
+**⚙ Steps to Reproduce**
 
 1️⃣ Setup Environment
 
@@ -135,11 +135,11 @@ Customer input summary.
 Display of custom image/banner.
 
 
-🖼 App Preview
+**🖼 App Preview**
 
 
 
-📊 Model Performance Summary
+**📊 Model Performance Summary**
 
 Model	Accuracy
 
@@ -150,7 +150,7 @@ Decision Tree	78.85%
 Random Forest	77.00%
 
 
-💡 Future Improvements
+**💡 Future Improvements**
 
 Incorporate more features in the model.
 
@@ -162,7 +162,7 @@ Enhance UI/UX design.
 
 
 
-📌 Key Findings 
+**📌 Key Findings** 
 
 1️⃣ Churn Distribution
 
