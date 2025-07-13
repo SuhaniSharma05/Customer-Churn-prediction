@@ -9,6 +9,7 @@ The objective of this project is to:
 Predict whether a customer will churn based on their demographic, service usage, and billing information.
 
 Identify key factors contributing to customer churn, so the business can take proactive steps for customer retention.
+![Alt text](images/your-image1.png)
 
 
 **Business Need:**
