@@ -2,7 +2,7 @@ n**📉 Customer Churn Prediction Project**
 
 **🎯 Problem Statement**
 
-The telecommunications industry faces a major challenge in retaining its customer base. Customer churn — when existing customers stop using a company's services — directly impacts revenue and growth.
+The telecommunications industry faces a mbajor challenge in retaining its customer base. Customer churn — when existing customers stop using a company's services — directly impacts revenue and growth.
 
 The objective of this project is to:
 
